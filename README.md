@@ -5,6 +5,6 @@ This repository contains the official MATLAB implementation of the TDA method fo
 The paper is under review on IEEE Transactions on Image Processing, a preprint version can be found on Arxiv. 
 
 <p float="left">
-    <img src='./sample.JPG' height="250" hspace="5"/>
+    <img src='./sample.JPG' height="220" hspace="5"/>
 
 </p>
