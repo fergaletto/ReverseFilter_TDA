@@ -8,3 +8,9 @@ The paper is under review on IEEE Transactions on Image Processing, a preprint v
     <img src='./sample.JPG' height="220" hspace="5"/>
 
 </p>
+
+Preprint on arxiv: 
+
+https://arxiv.org/abs/2112.04121
+
+
