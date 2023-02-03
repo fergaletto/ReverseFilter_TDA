@@ -8,8 +8,27 @@ This repository contains the official MATLAB implementation of the TDA method fo
 
 </p>
 
-Preprint on arxiv: 
+Paper: https://ieeexplore.ieee.org/document/9965381
 
-https://arxiv.org/abs/2112.04121
 
+
+@ARTICLE{9965381,
+
+    author={Galetto, Fernando J. and Deng, Guang},
+    
+    journal={IEEE Access}, 
+    
+    title={Reverse Image Filtering Using Total Derivative Approximation and Accelerated Gradient Descent}, 
+    
+    year={2022},
+    
+    volume={10},
+    
+    number={},
+    
+    pages={124928-124944},
+    
+    doi={10.1109/ACCESS.2022.3225411}
+    
+}
 
